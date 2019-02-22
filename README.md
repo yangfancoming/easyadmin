@@ -1,3 +1,7 @@
+访问地址： http://localhost:8082/admin/login
+root 123456
+
+
 # easyadmin
 
 数据库一定要用utf8mb4编码，记得先执行manager.sql，再执行initdata.sql,其中tenant表不用管，这是我打算做的另外一个项目设计的表，因为直接复制的本项目，怕到时候忘记，所以没有删除
